@@ -20,7 +20,7 @@ This is an asynchronous Python script to generate Hamster Kombat Keys.
 
 1. Clone the repository or download the script.
     ```sh
-    git clone https://github.com/ShafiqSadat/HamsterKeyGen.git
+    git clone https://github.com/kingbasitoo/HamsterKeyGen.git
     ```
 2. Create a virtual environment (optional but recommended):
     ```sh
